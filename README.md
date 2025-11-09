@@ -11,9 +11,9 @@ Please do not caught infection of somekind of threat.
 I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> WinUAE section.
 Then test that setting on WinUAE.
 </PRE>
-<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png" style="margin: 0;">
-<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell.png" style="margin: 0;">
-<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell2.png" style="margin: 0;">
+<IMG  style="vertical-align: bottom;margin: 0;" SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
+<IMG   style="vertical-align: bottom;margin: 0;" SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell.png">
+<IMG  style="vertical-align: bottom;margin: 0;" SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell2.png">
 <PRE>
 Sincerly.
 </PRE>
