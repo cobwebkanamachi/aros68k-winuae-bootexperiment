@@ -1,0 +1,254 @@
+﻿
+WinUAE 6.0.1 (2025.08.10) 64-bit (10.0.26100 [1]) 64-bit 9.6.8E09 4 02:30 0
+(c) 1995-2001 Bernd Schmidt   - Core UAE concept and implementation.
+(c) 1998-2025 Toni Wilen      - Win32 port, core code updates.
+(c) 1996-2001 Brian King      - Win32 port, Picasso96 RTG, and GUI.
+(c) 1996-1999 Mathias Ortmann - Win32 port and bsdsocket support.
+(c) 2000-2001 Bernd Meyer     - JIT engine.
+(c) 2000-2005 Bernd Roesch    - MIDI input, many fixes.
+Press F12 to show the Settings Dialog (GUI), Alt-F4 to quit.
+End+F1 changes floppy 0, End+F2 changes floppy 1, etc.
+'C:\Users\user\Downloads\WinUAE6010_x64\winuae64.exe'
+EXE: 'C:\Users\user\Downloads\WinUAE6010_x64\', DATA: 'C:\Users\Public\Documents\Amiga Files\WinUAE\', PLUGIN: 'C:\Users\Public\Documents\Amiga Files\WinUAE\'
+MMAN: Total physical RAM 8118 MB, all RAM 15549 MB
+MMAN: Attempting to reserve: 2561 MB
+VM: Reserve  0xa0100000 bytes, try address 0x80000000
+VM: Reserve  0xa0100000 bytes, got address 0x80000000 (> 32-bit)
+VM: Reserve  0xa0100000 bytes failed!
+MMAN: Reserved 000000007FFF0000-00000001200F0000 (0xa0100000 2561M)
+CLOCKFREQ: QPF 10.00MHz (10.00MHz, DIV=1)
+Enumerating display devices.. 
+Sorting devices and modes..
+Intel(R) HD Graphics 620 '\\.\DISPLAY1' [PCI\VEN_8086&DEV_5916&SUBSYS_00161179&REV_02]
+-: Generic PnP Monitor (1366*768) * [\Registry\Machine\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000]
+0: 320x200 (60)
+1: 320x240 (60)
+2: 400x300 (60)
+3: 512x384 (60)
+4: 640x400 (60)
+5: 640x480 (60)
+6: 800x600 (60)
+7: 1024x768 (60)
+8: 1280x600 (60)
+9: 1280x720 (60)
+10: 1280x768 (60)
+11: 1360x768 (60)
+12: 1366x768 (60)
+13 display modes.
+Desktop: W=1366 H=768 B=32 HZ=60. CXVS=1366 CYVS=768
+Enumerating WASAPI devices...
+Enumeration end
+0:WA: Default Audio Device
+1:WA: スピーカー (Realtek High Definition Audio)
+2:WX: Default Audio Device
+3:WX: スピーカー (Realtek High Definition Audio)
+Enumerating recording devices:
+done
+Filesystem charset (ACP=932,FSCP=28605):
+ 00: 0000        01: 0001        02: 0002        03: 0003       
+ 04: 0004        05: 0005        06: 0006        07: 0007       
+ 08: 0008        09: 0009        0A: 000A        0B: 000B       
+ 0C: 000C        0D: 000D        0E: 000E        0F: 000F       
+ 10: 0010        11: 0011        12: 0012        13: 0013       
+ 14: 0014        15: 0015        16: 0016        17: 0017       
+ 18: 0018        19: 0019        1A: 001A        1B: 001B       
+ 1C: 001C        1D: 001D        1E: 001E        1F: 001F       
+ 20: 0020        21: 0021        22: 0022        23: 0023       
+ 24: 0024        25: 0025        26: 0026        27: 0027       
+ 28: 0028        29: 0029        2A: 002A        2B: 002B       
+ 2C: 002C        2D: 002D        2E: 002E        2F: 002F       
+ 30: 0030        31: 0031        32: 0032        33: 0033       
+ 34: 0034        35: 0035        36: 0036        37: 0037       
+ 38: 0038        39: 0039        3A: 003A        3B: 003B       
+ 3C: 003C        3D: 003D        3E: 003E        3F: 003F       
+ 40: 0040        41: 0041        42: 0042        43: 0043       
+ 44: 0044        45: 0045        46: 0046        47: 0047       
+ 48: 0048        49: 0049        4A: 004A        4B: 004B       
+ 4C: 004C        4D: 004D        4E: 004E        4F: 004F       
+ 50: 0050        51: 0051        52: 0052        53: 0053       
+ 54: 0054        55: 0055        56: 0056        57: 0057       
+ 58: 0058        59: 0059        5A: 005A        5B: 005B       
+ 5C: 005C        5D: 005D        5E: 005E        5F: 005F       
+ 60: 0060        61: 0061        62: 0062        63: 0063       
+ 64: 0064        65: 0065        66: 0066        67: 0067       
+ 68: 0068        69: 0069        6A: 006A        6B: 006B       
+ 6C: 006C        6D: 006D        6E: 006E        6F: 006F       
+ 70: 0070        71: 0071        72: 0072        73: 0073       
+ 74: 0074        75: 0075        76: 0076        77: 0077       
+ 78: 0078        79: 0079        7A: 007A        7B: 007B       
+ 7C: 007C        7D: 007D        7E: 007E        7F: 007F       
+ 80: 0080        81: 30FB (0081) 82: 30FB (0082) 83: 30FB (0083)
+ 84: 30FB (0084) 85: 30FB (0085) 86: 30FB (0086) 87: 30FB (0087)
+ 88: 30FB (0088) 89: 30FB (0089) 8A: 30FB (008A) 8B: 30FB (008B)
+ 8C: 30FB (008C) 8D: 30FB (008D) 8E: 30FB (008E) 8F: 30FB (008F)
+ 90: 30FB (0090) 91: 30FB (0091) 92: 30FB (0092) 93: 30FB (0093)
+ 94: 30FB (0094) 95: 30FB (0095) 96: 30FB (0096) 97: 30FB (0097)
+ 98: 30FB (0098) 99: 30FB (0099) 9A: 30FB (009A) 9B: 30FB (009B)
+ 9C: 30FB (009C) 9D: 30FB (009D) 9E: 30FB (009E) 9F: 30FB (009F)
+ A0: F8F0 (00A0) A1: FF61 (00A1) A2: FF62 (00A2) A3: FF63 (00A3)
+ A4: FF64 (20AC) A5: FF65 (00A5) A6: FF66 (0160) A7: FF67 (00A7)
+ A8: FF68 (0161) A9: FF69 (00A9) AA: FF6A (00AA) AB: FF6B (00AB)
+ AC: FF6C (00AC) AD: FF6D (00AD) AE: FF6E (00AE) AF: FF6F (00AF)
+ B0: FF70 (00B0) B1: FF71 (00B1) B2: FF72 (00B2) B3: FF73 (00B3)
+ B4: FF74 (017D) B5: FF75 (00B5) B6: FF76 (00B6) B7: FF77 (00B7)
+ B8: FF78 (017E) B9: FF79 (00B9) BA: FF7A (00BA) BB: FF7B (00BB)
+ BC: FF7C (0152) BD: FF7D (0153) BE: FF7E (0178) BF: FF7F (00BF)
+ C0: FF80 (00C0) C1: FF81 (00C1) C2: FF82 (00C2) C3: FF83 (00C3)
+ C4: FF84 (00C4) C5: FF85 (00C5) C6: FF86 (00C6) C7: FF87 (00C7)
+ C8: FF88 (00C8) C9: FF89 (00C9) CA: FF8A (00CA) CB: FF8B (00CB)
+ CC: FF8C (00CC) CD: FF8D (00CD) CE: FF8E (00CE) CF: FF8F (00CF)
+ D0: FF90 (00D0) D1: FF91 (00D1) D2: FF92 (00D2) D3: FF93 (00D3)
+ D4: FF94 (00D4) D5: FF95 (00D5) D6: FF96 (00D6) D7: FF97 (00D7)
+ D8: FF98 (00D8) D9: FF99 (00D9) DA: FF9A (00DA) DB: FF9B (00DB)
+ DC: FF9C (00DC) DD: FF9D (00DD) DE: FF9E (00DE) DF: FF9F (00DF)
+ E0: 30FB (00E0) E1: 30FB (00E1) E2: 30FB (00E2) E3: 30FB (00E3)
+ E4: 30FB (00E4) E5: 30FB (00E5) E6: 30FB (00E6) E7: 30FB (00E7)
+ E8: 30FB (00E8) E9: 30FB (00E9) EA: 30FB (00EA) EB: 30FB (00EB)
+ EC: 30FB (00EC) ED: 30FB (00ED) EE: 30FB (00EE) EF: 30FB (00EF)
+ F0: 30FB (00F0) F1: 30FB (00F1) F2: 30FB (00F2) F3: 30FB (00F3)
+ F4: 30FB (00F4) F5: 30FB (00F5) F6: 30FB (00F6) F7: 30FB (00F7)
+ F8: 30FB (00F8) F9: 30FB (00F9) FA: 30FB (00FA) FB: 30FB (00FB)
+ FC: 30FB (00FC) FD: F8F1 (00FD) FE: F8F2 (00FE) FF: F8F3 (00FF)
+End
+CW: No Catweasel detected
+PARAPORT: no ParaPort.dll, direct parallel port emulation disabled
+IPC: Named Pipe '\\.\pipe\WinUAE' open
+Created internal serial port shared memory
+Serial port enumeration..
+Parallel port enumeration..
+Port enumeration end
+MIDI port enumeration.. IN=0 OUT=1
+MIDI OUT: -1:'Microsoft MIDI Mapper' (1/1)
+MIDI OUT: 0:'Microsoft GS Wavetable Synth' (1/27)
+MIDI port enumeration end
+RawInput enumeration..
+RAWINPUT: found 9 devices
+HID device check:
+0000000000010079 2 5664/0930 (1/12)
+RAWHID: UsagePage not 1 (000c)
+0000000000010077 2 5664/0930 (1/12)
+RAWHID: UsagePage not 1 (000c)
+0000000000010075 2 5664/0930 (12/1)
+RAWHID: Usage not 4 or 5 (000C)
+0000000000010071 2 06CB/CD67 (1/65280)
+RAWHID: UsagePage not 1 (ff00)
+0000000000010067 2 06CB/CD67 (5/13)
+RAWHID: UsagePage not 1 (000d)
+0000000000010052 0 0080/0002 (0/0)
+(48 00 49 00 44 00 49 00 32 00 43 00 20 00 44 00 65 00 76 00 69 00 63 00 65 00) 'HIDI2C Device'
+0000000000010052 0000000000000490 [FFFFFFFF/FFFFFFFF] mouse: '\\?\HID#TOSB1001&Col01#5&1c732470&0&0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}'
+id=128 buttons=2 hw=0 rate=0
+0000000000010050 0 0002/0002 (0/0)
+0000000000010050 0000000000000494 [FFFFFFFF/FFFFFFFF] mouse: '\\?\ACPI#TOS01F9#4&367fa940&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}'
+id=2 buttons=2 hw=0 rate=100
+000000000001004E 1 0007/0002 (0/12)
+000000000001004E 0000000000000498 [FFFFFFFF/FFFFFFFF] keyboard: '\\?\ACPI#MSFT0001#4&367fa940&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}'
+type=7 sub=2 mode=1 fkeys=12 indicators=3 tkeys=101
+[FFFFFFFF/FFFFFFFF] '\\?\ACPI#TOS01F9#4&367fa940&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}' (RAW Mouse) -> 'PS/2 互換マウス'
+[FFFFFFFF/FFFFFFFF] '\\?\HID#TOSB1001&Col01#5&1c732470&0&0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}' (RAW Mouse) -> 'HID 準拠マウス'
+[FFFFFFFF/FFFFFFFF] '\\?\ACPI#MSFT0001#4&367fa940&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}' (RAW Keyboard) -> '標準 PS/2 キーボード'
+HID 準拠マウス: [FFFFFFFF/FFFFFFFF]
+00 000 'X Axis' (0, [0 - 0, 0 - 0, 0 0 0])
+01 001 'Y Axis' (1, [0 - 0, 0 - 0, 0 0 0])
+02 002 'Wheel' (2, [0 - 0, 0 - 0, 0 0 0])
+03 003 'HWheel' (3, [0 - 0, 0 - 0, 0 0 0])
+00 000 'Button 1' (0)
+01 001 'Button 2' (1)
+02 002 'Wheel [-]' (1004)
+02 002 'Wheel [+]' (1005)
+03 003 'HWheel [-]' (1006)
+03 003 'HWheel [+]' (1007)
+PS/2 互換マウス: [FFFFFFFF/FFFFFFFF]
+00 000 'X Axis' (0, [0 - 0, 0 - 0, 0 0 0])
+01 001 'Y Axis' (1, [0 - 0, 0 - 0, 0 0 0])
+02 002 'Wheel' (2, [0 - 0, 0 - 0, 0 0 0])
+03 003 'HWheel' (3, [0 - 0, 0 - 0, 0 0 0])
+00 000 'Button 1' (0)
+01 001 'Button 2' (1)
+02 002 'Wheel [-]' (1004)
+02 002 'Wheel [+]' (1005)
+03 003 'HWheel [-]' (1006)
+03 003 'HWheel [+]' (1007)
+DirectInput enumeration.. Game controllers..
+Windowsmouse initialization..
+Catweasel joymouse initialization..
+wintab tablet initialization..
+Tablet: no wintab32.dll
+end
+K 00: 'WinUAE keyboard' (NULLKEYBOARD)
+K 01: '標準 PS/2 キーボード' (\\?\ACPI#MSFT0001#4&367fa940&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd})
+Stored port 0(0)/0 d=0: added 200 0  
+Stored port 0(0)/0 d=0: added 200 0 Windows mouse WINMOUSE1
+Port0(0): ID 'mouse' matched
+Stored port 1(0)/0 d=0: added 0 0  
+Stored port 1(0)/0 d=0: added 0 0  
+Port1(0): ID 'kbd1' matched
+Port2(0): NONE
+Port3(0): NONE
+config reset
+load config 'C:\Users\Public\Documents\Amiga Files\WinUAE\Configurations\default.uae':0
+cfgfile_load_2 failed
+Stored port 0(0)/0 d=1: added 200 0 Windows mouse WINMOUSE1
+Port0(0): ID 'mouse' matched
+Stored port 1(0)/0 d=1: added 0 0  
+Port1(0): ID 'kbd1' matched
+Port2(0): NONE
+Port3(0): NONE
+failed to load config 'C:\Users\Public\Documents\Amiga Files\WinUAE\Configurations\default.uae'
+Stored port 0(0)/1 d=1: added 200 0 Windows mouse WINMOUSE1
+Port0(0): COMBO 'Windows mouse' + 'WINMOUSE1' matched
+Stored port 1(0)/1 d=1: added 0 0  
+Port1(0): ID 'kbd1' matched
+Port2(0): NONE
+Port3(0): NONE
+Stored port 0(0)/2 d=0: added 200 0 Windows mouse WINMOUSE1
+Stored port 1(0)/2 d=0: added 0 0  
+Stored port 0(0)/2 d=0: added 200 0 Windows mouse WINMOUSE1
+Stored port 1(0)/2 d=0: added 0 0  
+dark mode supported: 1 enabled: 0
+'C:\Users\Public\Documents\Amiga Files\WinUAE\Configurations\configuration.cache' loaded successfully
+Entering GUI idle loop
+Requested GUI size = 800x600 (720x568)
+getguisize got 43x10 - 843x610 = 800x600
+One of the following system ROMs is required:
+
+- KS ROM v3.0 (A1200) rev 39.106 (512k) [391523-01/391524-01]
+- KS ROM v3.1 (A1200) rev 40.68 (512k) [391773-01/391774-01]
+- KS ROM v3.1 (A4000)(Cloanto) rev 40.68 (512k)
+
+
+Check the System ROM path in the Paths panel and click Rescan ROMs.
+getguisize got 43x10 - 843x610 = 800x600
+Got GUI size = 800x600
+config reset
+load config 'C:\Users\Public\Documents\Amiga Files\WinUAE\Configurations\test2.uae':0
+0 1: 0 -> 0 (Windows mouse)
+0 1: 1 -> 1 (HID 準拠マウス)
+0 1: 2 -> 2 (PS/2 互換マウス)
+0 3: 0 -> 0 (Internal events)
+1 1: 0 -> 0 (Windows mouse)
+1 1: 1 -> 1 (HID 準拠マウス)
+1 1: 2 -> 2 (PS/2 互換マウス)
+1 3: 0 -> 0 (Internal events)
+2 1: 0 -> 0 (Windows mouse)
+2 1: 1 -> 1 (HID 準拠マウス)
+2 1: 2 -> 2 (PS/2 互換マウス)
+2 3: 0 -> 0 (Internal events)
+Stored port 0(0)/2 d=0: added 200 0 Windows mouse WINMOUSE1
+Port0(0): COMBO 'Windows mouse' + 'WINMOUSE1' matched
+Stored port 1(0)/2 d=0: added 0 0  
+Stored port 1(0)/2 d=0: added 0 0  
+Port1(0): ID 'kbd1' matched
+Port2(0): NONE
+Port3(0): NONE
+Possible boxart path: 'C:\Users\user\Downloads\WinUAE6010_x64\Scout_os3.lha'
+Possible boxart path: 'C:\Users\user\Downloads\AMOSPro_WinUAE\AmigaBoingHDF\AMOSPro'
+Possible boxart path: 'C:\Users\user\Downloads\WinUAE6010_x64\aros-amiga-m68k.iso'
+Stored port 0(0)/2 d=0: added 200 0 Windows mouse WINMOUSE1
+Port0(0): COMBO 'Windows mouse' + 'WINMOUSE1' matched
+Stored port 1(0)/2 d=0: added 0 0  
+Stored port 1(0)/2 d=0: added 0 0  
+Port1(0): ID 'kbd1' matched
+Port2(0): NONE
+Port3(0): NONE
+Log (disabled): 'C:\Users\Public\Documents\Amiga Files\WinUAE\winuaelog.txt'
