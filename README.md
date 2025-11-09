@@ -12,6 +12,8 @@ I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> Wi
 Then test that setting on WinUAE.
 </PRE>
 <IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
+<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell.png">
+<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell2.png">
 <PRE>
 Sincerly.
 </PRE>
