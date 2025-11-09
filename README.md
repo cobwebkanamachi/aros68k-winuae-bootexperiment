@@ -12,9 +12,9 @@ I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> Wi
 Then test that setting on WinUAE.
 </PRE>
 <kbd>
-<IMG  style="vertical-align: bottom;margin: 0;margin-bottom: 0;"   SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
-<IMG   style="vertical-align: bottom;margin: 0;margin-bottom: 0;"  SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell.png">
-<IMG  style="vertical-align: bottom;margin: 0;margin-bottom: 0;"   SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell2.png">
+<IMG  style="vertical-align: bottom;margin: 0;margin-bottom: 0; width=200;"  SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
+<IMG   style="vertical-align: bottom;margin: 0;margin-bottom: 0; width=200;"  SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell.png">
+<IMG  style="vertical-align: bottom;margin: 0;margin-bottom: 0; width=200;"   SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/shell2.png">
 </kbd>
 <PRE>
 Sincerly.
