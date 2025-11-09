@@ -10,7 +10,9 @@ Please do not caught infection of somekind of threat.
 
 I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> WinUAE section.
 Then test that setting on WinUAE.
-
+</PRE>
+<IMG SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
+<PRE>
 Sincerly.
 </PRE>
 
