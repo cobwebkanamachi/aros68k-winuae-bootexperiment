@@ -8,6 +8,9 @@ DH0 is this : C:\Users\user\Downloads\AMOSPro_WinUAE\AmigaBoingHDF
 Perhaps you would search boing_amospro.zip or something else similar.
 Please do not caught infection of somekind of threat.
 
+I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> WinUAE section.
+Then test that setting on WinUAE.
+
 Sincerly.
 </PRE>
 
