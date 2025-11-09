@@ -10,6 +10,8 @@ Please do not caught infection of somekind of threat.
 
 I read https://en.wikibooks.org/wiki/Aros/Platforms/68k_support of Install -> WinUAE section.
 Then test that setting on WinUAE.
+photos left is splash image. middle is shell invoking from workbench (mouse right pressed on focusing notebook bar.
+right is shell invoked and did not accept else echo and cd DH0.
 </PRE>
 <kbd>
 <IMG  style="vertical-align: bottom;margin: 0;margin-bottom: 0;" width=200  SRC="https://github.com/cobwebkanamachi/aros68k-winuae-bootexperiment/blob/main/splash.png">
